@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Startup_User</string>
+    <string name="one">Profile</string>
+    <string name="two">Funds</string>
+    <string name="three">Reports</string>
+    <string name="four">Support</string>
+</resources>
